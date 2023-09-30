@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LokshahiApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="fistTenPostForAllCategories">https://lokshahilive.com/wp-json/wp/v2/posts?categories=10</string>
+    <string name="rajkaran">https://lokshahilive.com/wp-json/wp/v2/posts?categories=3</string>
+    <string name="brecking_cat">https://lokshahilive.com/wp-json/wp/v2/posts</string>
+    <string name="vishesh">https://lokshahilive.com/wp-json/wp/v2/posts?categories=1265</string>
+    <string name="jalgoanShahar">https://lokshahilive.com/wp-json/wp/v2/posts?categories=3</string>
+    <string name="nokri">https://lokshahilive.com/wp-json/wp/v2/posts?categories=434</string>
+    <string name="havaman">https://lokshahilive.com/wp-json/wp/v2/posts?categories=8</string>
+
+    <string name="lekh">https://lokshahilive.com/wp-json/wp/v2/posts?categories=436</string>
+    <string name="sports">https://lokshahilive.com/wp-json/wp/v2/posts?categories=7</string>
+
+    <string name="bhusaval">https://lokshahilive.com/wp-json/wp/v2/posts?categories=1221</string>
+
+    <string name="chalisgaon">https://lokshahilive.com/wp-json/wp/v2/posts?categories=6</string>
+
+    <string name="raver">https://lokshahilive.com/wp-json/wp/v2/posts?categories=380</string>
+
+
+    <string name="tajya">ताज्या बातम्या</string>
+</resources>

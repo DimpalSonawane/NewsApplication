@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_prashasan"
+            android:icon="@drawable/ic_newspaper"
+            android:title="ई-पेपर"/>
+        <item android:id="@+id/nav_rajkaran"
+            android:icon="@drawable/ic_wave"
+            android:title="पश्चिम महाराष्ट्र"/>
+        <item android:id="@+id/nav_corona"
+            android:icon="@drawable/ic_banana"
+            android:title="उत्तर महाराष्ट्र"/>
+        <item android:id="@+id/nav_gunhe"
+            android:icon="@drawable/ic_district"
+            android:title="जळगाव"/>
+        <item android:id="@+id/nav_shaikshanik"
+            android:icon="@drawable/ic_prashasan"
+            android:title="जळगाव ग्रामीण"/>
+        <item android:id="@+id/nav_samajik"
+            android:icon="@drawable/ic_samajik"
+            android:title="संपादकीय"/>
+        <item android:id="@+id/nav_sone_chandi"
+            android:visible="false"
+            android:icon="@drawable/ic_wealth"
+            android:title="सोने – चांदी"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_jalgaon"
+            android:icon="@drawable/ic_dash"
+            android:title="क्रीडा" />
+
+        <item
+            android:id="@+id/nav_jalgaonJilha"
+            android:icon="@drawable/ic_dash"
+            android:title="लेख" />
+
+        <item
+            android:id="@+id/nav_bhusawal"
+            android:icon="@drawable/ic_dash"
+            android:title="नोकरी संदर्भ" />
+        <item
+            android:id="@+id/nav_chalisgaon"
+            android:icon="@drawable/ic_dash"
+            android:title="शैक्षणिक" />
+        <item
+            android:id="@+id/nav_raver"
+            android:icon="@drawable/ic_dash"
+            android:title="निधन वार्ता" />
+        <item
+            android:id="@+id/nav_yawal"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="यावल" />
+        <item
+            android:id="@+id/nav_chopda"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="चोपडा" />
+        <item
+            android:id="@+id/nav_bhadgav"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="भडगाव" />
+        <item
+            android:id="@+id/nav_jamner"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="जामनेर" />
+        <item
+            android:id="@+id/nav_parola"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="पारोळा" />
+        <item
+            android:id="@+id/nav_pachora"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="पाचोरा" />
+        <item
+            android:id="@+id/nav_dharangaon"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="धरणगाव" />
+        <item
+            android:id="@+id/nav_bodvad"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="बोदवड" />
+        <item
+            android:id="@+id/nav_erandol"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="एरंडोल" />
+        <item
+            android:id="@+id/nav_amalner"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="अमळनेर" />
+        <item
+            android:id="@+id/nav_muktainagar"
+            android:visible="false"
+            android:icon="@drawable/ic_dash"
+            android:title="मुक्ताईनगर" />
+    </group>
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+    <item android:id="@+id/nav_rajkaran"
+        android:icon="@drawable/ic_wave"
+        android:title="पश्चिम महाराष्ट्र"/>
+
+    <item android:id="@+id/nav_corona"
+        android:icon="@drawable/ic_banana"
+        android:title="उत्तर महाराष्ट्र"/>
+
+    <item android:id="@+id/nav_gunhe"
+        android:icon="@drawable/ic_district"
+        android:title="जळगाव"/>
+    </group>
+</menu>
